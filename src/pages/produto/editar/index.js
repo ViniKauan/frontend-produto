@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Redirect } from "react-router-dom";
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class EditarProduto extends Component {
     constructor(props) {
